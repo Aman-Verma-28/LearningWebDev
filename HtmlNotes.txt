@@ -1,0 +1,1 @@
+Every tag has its own opening and closing tag other than few tags like image tag that doesnt contain its attributes as the file name 
